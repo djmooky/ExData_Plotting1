@@ -8,3 +8,4 @@ plot(theData$Seq, theData$Global_active_power, type="l",
 	ylab="Global Active Power (Kilowatts)",
 	xlab="")
 dev.off()
+
